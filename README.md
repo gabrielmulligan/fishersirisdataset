@@ -88,9 +88,13 @@ This is a summary of the main statistics of the dataset, per species:-
 
 # Findings
 
-From the scatterplot diagrams above, **Iris Setosa is linearly separable from the other two**, while there is considerable overlap between Iris Virginica and Iris Versicolor, as can be seen from both figures in the Scatterplot diagrams from the Python program below.
+From the scatterplot diagrams above, **Iris Setosa is linearly separable from the other two**, while there is considerable overlap between Iris Virginica and Iris Versicolor, particularly in the analysis of sepal length and width - as can be seen from both figures in the diagrams (generated from the Python program below).
 
-Iris Setosa is seperable by the fact that its *Petal Length and Width* are significantly less than the other two species. Setosa's petal length ranges from 1.0-1.9cm and petal width from 0.1-0.6cm, substantially less than Versicolor's (Len 3.0-5.1cm and Wid 1.0-1.8cm) and Virginica's (Len 4.5-6.9cm and Wid 1.4-2.5cm). Visually, the Setosa is a much smaller flower, compared to the other two species.
+Iris Setosa is seperable by the fact that its *Petal Length and Width* are significantly less than the other two species. This is represented by the clustering of the Setosa points in the two scatterplot diagrams and the mimimum of overlap with the other two species. 
+
+Iris Virginica and Versicolor are more difficult to segregate based on this data collection, highlighted by the closeness and overlap of the clusters. However, the Virginica species does have a slightly longer petal length vs. Versicolor, and significantly longer than Setosa.
+
+Setosa's petal length ranges from 1.0-1.9cm and petal width from 0.1-0.6cm, substantially less than Versicolor's (Len 3.0-5.1cm and Wid 1.0-1.8cm) and Virginica's (Len 4.5-6.9cm and Wid 1.4-2.5cm). Visually, the Setosa is a much smaller flower, compared to the other two species.
 
 |      |Setosa|Versicolor|Virginica|
 | --- | --- | --- |--- |
@@ -102,7 +106,7 @@ Iris Setosa is seperable by the fact that its *Petal Length and Width* are signi
 
 # Legacy
 
-This dataset has become a test case for many statistical and machine learning projects, given Fisher's *linear discriminant model* and how the data collected by Anderson could be used to find a linear combination of features that characterize or separate two or more classes of objects/events i.e. could the length and width of the sepals and petals of these three Iris species be used to infer which species that data sample belongs to.
+This dataset has become a renowned test case for many statistical and machine learning projects, given Fisher's *linear discriminant model* and how the data collected by Anderson could be used to find a linear combination of features that characterize or separate two or more classes of objects/events i.e. the length and width of the sepals and petals of these three Iris species being used to infer which species that data sample belongs to.
 
 The fact that this dataset is available as part of the Scikit machine-learning library in Python - and therefore analyzed as part of many third-level courses - means that more and more students over a range of disciplines (e.g. IT, Maths, Biology) access and analyze this dataset each year to understand the groundbreaking work undertaken by Fisher and Anderson.
 
