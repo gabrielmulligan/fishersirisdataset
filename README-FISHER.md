@@ -84,11 +84,11 @@ Iris Setosa is seperable by the fact that its *Petal Length and Width* are signi
 
 |      |Setosa|Versicolor|Virginica|
 | --- | --- | --- |--- |
-| Min Petal Length | *1.0* | 3.0 |4.5 |
-| Max Petal Length| *1.9* | 5.1 |6.9 |
+| Min Petal Length | **_1.0_** | 3.0 |4.5 |
+| Max Petal Length| **_1.9_** | 5.1 |6.9 |
 | | |  | |
-| Min Petal Width| *0.1* | 1.0 |1.4 |
-| Max Petal Width| *0.6* | 1.8 |2.5 |
+| Min Petal Width| **_0.1_** | 1.0 |1.4 |
+| Max Petal Width| **_0.6_** | 1.8 |2.5 |
 
 # Python Program 
 ## fisher_scatterplot.py
