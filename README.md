@@ -27,6 +27,7 @@ The data set consists of fifty samples from each of three species of Iris (setos
 - Width of Petal
 - Length of Sepal* (i.e. the firm green part that supports the petal once it has bloomed) 
 - Width of Sepal
+
 Based on the combination of these four features, Fisher developed a *linear discriminant model* (defined above) to distinguish the species from each other.
 
 ## Statistical Summary Tables
