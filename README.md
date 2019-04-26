@@ -15,6 +15,7 @@ In this case, Fisher wished to investigate if the species of an Iris flower coul
 ## The Data
 The data was collected by Fisher’s colleague, Edgar Anderson, in order to quantify the scientific variation of Iris flowers of three related species. Two of the three species (setosa and versicolor) were collected in the Gaspé Peninsula in Quebec, Canada:-  
 >all from the same pasture, and picked on the same day and measured at the same time by the same person with the same apparatus <sup>[Reference 1](https://link.springer.com/chapter/10.1007/978-1-4612-5098-2_2)</sup>.
+The third species (virginica) was collected from a different colony.
 
 The data set consists of fifty samples from each of three species of Iris (setosa, versicolor and virginica). Four features were measured (in cm) from each sample:-
 - Length of Petal
@@ -92,6 +93,11 @@ Iris Setosa is seperable by the fact that its *Petal Length and Width* are signi
 | | |  | |
 | Min Petal Width| **_0.1_** | 1.0 |1.4 |
 | Max Petal Width| **_0.6_** | 1.8 |2.5 |
+
+# Legacy
+
+This dataset has become a test case for many statistical and machine learning projects, given Fisher's *linear discriminant model* and how the data collected by Anderson could be used to find a linear combination of features that characterize or separate two or more classes of objects/events.
+The fact that this dataset is available (and analyzed in many tutorials) as part of the Scikit machine-learning library in Python means that more and more students (IT, Maths, Biology) access and analyze this dataset each year.
 
 # Python Program 
 ## fisher_scatterplot.py
