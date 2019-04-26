@@ -2,11 +2,11 @@
 This repository consists of my analysis of the Fisher's Iris Dataset as specified in the 2019 Project [Link to Project Detail PDF ](https://github.com/ianmcloughlin/project-pands/raw/master/project.pdf)
 
 # How to download this repository
-1. Logon to GitHub to locate my specific repository dedicated to this Project [My repository for this project on GitHub](https://github.com/gabrielmulligan/fishersirisdataset)
+1. Logon to GitHub to locate my specific repository dedicated to this Project located at this link [My repository for this project on GitHub](https://github.com/gabrielmulligan/fishersirisdataset)
 2. Click the download button.
 3. To run the code, ensure you have Python installed.
 
-# Fisher's Iris Dataset
+# Analysis of Fisher's Iris Dataset
 
 ## Introduction
 Fisher's Iris data set is a multivariate data set introduced by Ronald Fisher in 1936, as an example of *linear discriminant analysis* i.e. a method used in statistics to find a linear combination of features that characterizes or separates two or more classes of objects or events. 
@@ -15,7 +15,11 @@ In this case, Fisher wished to investigate if the species of an Iris flower coul
 ## The Data
 The data was collected by Fisher’s colleague, Edgar Anderson, in order to quantify the scientific variation of Iris flowers of three related species. Two of the three species (setosa and versicolor) were collected in the Gaspé Peninsula in Quebec, Canada:-  
 >all from the same pasture, and picked on the same day and measured at the same time by the same person with the same apparatus <sup>[Reference 1](https://link.springer.com/chapter/10.1007/978-1-4612-5098-2_2)</sup>.
+
 The third species (virginica) was collected from a different colony.
+
+![Figure 1: Species of Iris collected](https://github.com/gabrielmulligan/fishersirisdataset/blob/master/Iris_Flowers.png)
+##### Figure 1: The species of Iris collected and analyzed by Anderson and Fisher
 
 The data set consists of fifty samples from each of three species of Iris (setosa, versicolor and virginica). Four features were measured (in cm) from each sample:-
 - Length of Petal
@@ -71,14 +75,14 @@ These tables detail the mean (average), standard deviation and min/max (incl. 25
 
 These are the scatterplot diagrams showing the distribution of a) Sepal Length and Width and b) Petal Length and Width across the three species of Iris.
 
-![Figure 1: Scatterplot Diagrams of Fisher's Iris Dataset](https://github.com/gabrielmulligan/fishersirisdataset/blob/master/Fisher_Scatterplots.png)
-##### Figure 1: Scatterplot Diagrams of Fisher's Iris Dataset
+![Figure 2: Scatterplot Diagrams of Fisher's Iris Dataset](https://github.com/gabrielmulligan/fishersirisdataset/blob/master/Fisher_Scatterplots.png)
+##### Figure 2: Scatterplot Diagrams of Fisher's Iris Dataset
 
 
 and a summary of the main statistics of the dataset, per species:-
 
-![Figure 2: Tabular Summary of the Primary Statistics of each Iris species](https://github.com/gabrielmulligan/fishersirisdataset/blob/master/Fisher_Summary.png)
-##### Figure 2: Tabular Summary of the Primary Statistics of each Iris species
+![Figure 3: Tabular Summary of the Primary Statistics of each Iris species](https://github.com/gabrielmulligan/fishersirisdataset/blob/master/Fisher_Summary.png)
+##### Figure 3: Tabular Summary of the Primary Statistics of each Iris species
 
 # Findings
 
