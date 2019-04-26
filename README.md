@@ -1,5 +1,5 @@
 # Project 2019        Programming and Scripting
-This repository consists of my analysis of the Fisher's Iris Dataset as specified in the 2019 Project [Link to Project Detail PDF ](https://github.com/ianmcloughlin/project-pands/raw/master/project.pdf)
+This repository consists of my analysis of the Fisher's Iris Dataset as specified in the 2019 Project [Link to Project PDF ](https://github.com/ianmcloughlin/project-pands/raw/master/project.pdf)
 
 # How to download this repository
 1. Logon to GitHub to locate my specific repository dedicated to this Project located at this link [My repository for this project on GitHub](https://github.com/gabrielmulligan/fishersirisdataset)
