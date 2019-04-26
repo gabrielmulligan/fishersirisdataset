@@ -95,13 +95,13 @@ Iris Setosa is seperable by the fact that its *Petal Length and Width* are signi
 # Python Program 
 ## fisher_scatterplot.py
 
-This outputs both a statistical analysis (mean,min,max,standard deviation) of the Iris Dataset using the `describe` function and plots the findings of the 150 samples into a scatterplot diagram to highlight specific patterns in the two diagrams. Both outputs are shown in the Figures above.
+This outputs both a statistical analysis (mean,min,max,standard deviation) of the Iris Dataset using the `describe` function in Python and plots the findings of the 150 samples into a scatterplot diagram to highlight specific patterns in the two diagrams. Both outputs are shown in the Figures above.
 
 # REFERENCES
-I used the following online resources in compiling the solution outlined above, including researching how to code scatterplot diagrams in Python, specifically Reference 2 - Abhishek Gupta on kaggle.com - which greatly helped explain how the arrays and features of a dataset are setup in order to accurately create scatterplot diagrams once the program runs.
+I used the following online resources in compiling the solution outlined above, including researching how to code scatterplot diagrams in Python, specifically Reference 2 below - Abhishek Gupta on kaggle.com - which greatly helped explain how the arrays and features of a dataset are setup in order to accurately create scatterplot diagrams once the program runs.
 
 
-1. [Source Fisher, R.A. (1936). The use of multiple measurements in taxonomic problems. Ann. Eugenics 7, Pt. II, 179-188. As found here](https://link.springer.com/chapter/10.1007/978-1-4612-5098-2_2)
+1. [Source Fisher, R.A. (1936). The use of multiple measurements in taxonomic problems. Ann. Eugenics 7, Pt. II, 179-188.](https://link.springer.com/chapter/10.1007/978-1-4612-5098-2_2)
 2. [Abhishek Gupta's analysis of the Fisher Dataset on kaggle.com](https://www.kaggle.com/abhishekkrg/python-iris-data-visualization-and-explanation)
 3. [An overview of the Iris Dataset from Codebag NG incl. some programs to help analyze it](https://medium.com/codebagng/basic-analysis-of-the-iris-data-set-using-python-2995618a6342)
 4. [Edukast's Youtube video on Machine Learning Classification - specifically using Fisher's Iris Dataset](https://www.youtube.com/watch?v=wIubuU7gejM)
