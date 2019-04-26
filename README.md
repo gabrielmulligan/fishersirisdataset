@@ -18,8 +18,9 @@ The data was collected by Fisher’s colleague, Edgar Anderson, in order to quan
 
 The third species (virginica) was collected from a different colony.
 
+
 ![Figure 1: Species of Iris collected](https://github.com/gabrielmulligan/fishersirisdataset/blob/master/Iris_Flowers.png)
-##### Figure 1: The species of Iris collected and analyzed by Anderson and Fisher
+##### Figure 1: The three species of Iris collected and analyzed by Anderson and Fisher
 
 The data set consists of fifty samples from each of three species of Iris (setosa, versicolor and virginica). Four features were measured (in cm) from each sample:-
 - Length of Petal
@@ -106,7 +107,7 @@ The fact that this dataset is available (and analyzed in many tutorials) as part
 # Python Program 
 ## fisher_scatterplot.py
 
-This outputs both a statistical analysis (mean,min,max,standard deviation) of the Iris Dataset using the `describe` function in Python and plots the findings of the 150 samples into a scatterplot diagram to highlight specific patterns in the two diagrams. Both outputs are shown in the Figures above.
+This outputs both a statistical analysis (mean,min,max,standard deviation) of the Iris Dataset using the `describe` function in Python and plots the findings of the 150 samples into a scatterplot diagram to highlight specific patterns in the two diagrams. Both outputs are shown in Figure 2 and 3 above.
 
 # REFERENCES
 I used the following online resources in compiling the solution outlined above, including researching how to code scatterplot diagrams in Python, specifically Reference 2 below - Abhishek Gupta on kaggle.com - which greatly helped explain how the arrays and features of a dataset are setup in order to accurately create scatterplot diagrams once the program runs.
