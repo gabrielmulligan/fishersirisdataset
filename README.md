@@ -13,7 +13,7 @@ Fisher's Iris data set is a multivariate data set introduced by Ronald Fisher in
 In this case, Fisher wished to investigate if the species of an Iris flower could be identified by examining its petal and sepal length and width.
 
 ## The Data
-The data was collected by Fisher’s colleague, Edgar Anderson, in order to quantify the scientific variation of Iris flowers of three related species. Two of the three species (setosa and versicolor) were collected in the Gaspé Peninsula in Quebec, Canada  
+The data was collected by Fisher’s colleague, Edgar Anderson, in order to quantify the scientific variation of Iris flowers of three related species. Two of the three species (setosa and versicolor) were collected in the Gaspé Peninsula in Quebec, Canada:-  
 >all from the same pasture, and picked on the same day and measured at the same time by the same person with the same apparatus <sup>[Reference 1](https://link.springer.com/chapter/10.1007/978-1-4612-5098-2_2)</sup>.
 
 The data set consists of fifty samples from each of three species of Iris (setosa, versicolor and virginica). Four features were measured (in cm) from each sample:-
@@ -82,6 +82,7 @@ and a summary of the main statistics of the dataset, per species:-
 # Findings
 
 From the scatterplot diagrams above, **Iris Setosa is linearly separable from the other two**, while there is considerable overlap between Iris Virginica and Iris Versicolor, as can be seen from both figures in the Scatterplot diagrams from the Python program below.
+
 Iris Setosa is seperable by the fact that its *Petal Length and Width* are significantly less than the other two species. Setosa's petal length ranges from 1.0-1.9cm and petal width from 0.1-0.6cm, substantially less than Versicolor's (Len 3.0-5.1cm and Wid 1.0-1.8cm) and Virginica's (Len 4.5-6.9cm and Wid 1.4-2.5cm). Visually, the Setosa is a much smaller flower, compared to the other two species.
 
 |      |Setosa|Versicolor|Virginica|
