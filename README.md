@@ -14,7 +14,7 @@ In this case, Fisher wished to investigate if the species of an Iris flower coul
 
 ## The Data
 The data was collected by Fisher’s colleague, Edgar Anderson, in order to quantify the scientific variation of Iris flowers of three related species. Two of the three species (setosa and versicolor) were collected in the Gaspé Peninsula in Quebec, Canada:-  
->all from the same pasture, and picked on the same day and measured at the same time by the same person with the same apparatus <sup>[Reference 1](https://link.springer.com/chapter/10.1007/978-1-4612-5098-2_2)</sup>.
+>all from the same pasture, and picked on the same day and measured at the same time by the same person with the same apparatus <sup>[Reference 2](https://link.springer.com/chapter/10.1007/978-1-4612-5098-2_2)</sup>.
 
 The third species (virginica) was collected from a different colony.
 
@@ -112,13 +112,14 @@ The fact that this dataset is available as part of the Scikit machine-learning l
 This outputs both a statistical analysis (mean,min,max,standard deviation) of the Iris Dataset using the `describe` function in Python and plots the findings of the 150 samples into a scatterplot diagram to highlight specific patterns in the two diagrams. Both outputs are shown in Figure 2 and 3 above.
 
 # REFERENCES
-I used the following online resources in compiling the solution outlined above, including researching how to code scatterplot diagrams in Python, specifically Reference 2 below - Abhishek Gupta on kaggle.com - which greatly helped explain how the arrays and features of a dataset are setup in order to accurately create scatterplot diagrams once the program runs.
+I used the following online resources in compiling the solution outlined above, including researching how to code scatterplot diagrams in Python, specifically Reference 3 below - Abhishek Gupta on kaggle.com - which greatly helped explain how the arrays and features of a dataset are setup in order to accurately create scatterplot diagrams once the program runs.
 
 
-1. [Source Fisher, R.A. (1936). The use of multiple measurements in taxonomic problems. Ann. Eugenics 7, Pt. II, 179-188.](https://link.springer.com/chapter/10.1007/978-1-4612-5098-2_2)
-2. [Abhishek Gupta's analysis of the Fisher Dataset on kaggle.com](https://www.kaggle.com/abhishekkrg/python-iris-data-visualization-and-explanation)
-3. [An overview of the Iris Dataset from Codebag NG incl. some programs to help analyze it](https://medium.com/codebagng/basic-analysis-of-the-iris-data-set-using-python-2995618a6342)
-4. [Edukast's Youtube video on Machine Learning Classification - specifically using Fisher's Iris Dataset](https://www.youtube.com/watch?v=wIubuU7gejM)
-5. [Dr. Ian McLoughlin's GMIT lectures](https://web.microsoftstream.com/video/6db924ef-af13-47da-a620-0e5b59e1c0ff)
-6. [Writing readme.md files on Github](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
-7. [Creating tables in markdown](https://www.makeuseof.com/tag/create-markdown-table/)
+1. [Downloadable CSV file of Fisher's Dataset from GitHub User Content](https://raw.githubusercontent.com/uiuc-cse/data-fa14/gh-pages/data/iris.csv)
+2. [Source Fisher, R.A. (1936). The use of multiple measurements in taxonomic problems. Ann. Eugenics 7, Pt. II, 179-188.](https://link.springer.com/chapter/10.1007/978-1-4612-5098-2_2)
+3. [Abhishek Gupta's analysis of the Fisher Dataset on kaggle.com](https://www.kaggle.com/abhishekkrg/python-iris-data-visualization-and-explanation)
+4. [An overview of the Iris Dataset from Codebag NG incl. some programs to help analyze it](https://medium.com/codebagng/basic-analysis-of-the-iris-data-set-using-python-2995618a6342)
+5. [Edukast's Youtube video on Machine Learning Classification - specifically using Fisher's Iris Dataset](https://www.youtube.com/watch?v=wIubuU7gejM)
+6. [Dr. Ian McLoughlin's GMIT lectures](https://web.microsoftstream.com/video/6db924ef-af13-47da-a620-0e5b59e1c0ff)
+7. [Writing readme.md files on Github](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
+8. [Creating tables in markdown](https://www.makeuseof.com/tag/create-markdown-table/)
