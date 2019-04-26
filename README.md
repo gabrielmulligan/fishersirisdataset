@@ -32,7 +32,7 @@ Based on the combination of these four features, Fisher developed a *linear disc
 
 ## Statistical Summary Tables
 
-These tables detail the mean (average), standard deviation and min/max (incl. 25%/50%/75% percentiles) of the data for the three Iris species, as collected and documented by Edgar Anderson.
+These tables detail the mean (average), standard deviation and min/max (incl. 25th/50th/75th percentiles) of the data for the three Iris species, as collected and documented by Edgar Anderson.
 
 ### Setosa
 
