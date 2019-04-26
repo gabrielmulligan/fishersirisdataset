@@ -112,7 +112,7 @@ The fact that this dataset is available as part of the Scikit machine-learning l
 This outputs both a statistical analysis (mean,min,max,standard deviation) of the Iris Dataset using the `describe` function in Python and plots the findings of the 150 samples into a scatterplot diagram to highlight specific patterns in the two diagrams. Both outputs are shown in Figure 2 and 3 above.
 
 # REFERENCES
-I used the following online resources in compiling the solution outlined above, including researching how to code scatterplot diagrams in Python, specifically Reference 3 below - Abhishek Gupta on kaggle.com - which greatly helped explain how the arrays and features of a dataset are setup in order to accurately create scatterplot diagrams once the program runs.
+I used the following online resources in compiling the Management Summary documented above, including researching how to code scatterplot diagrams in Python, specifically Reference 3 below - Abhishek Gupta on kaggle.com - which greatly helped explain how the arrays and features of a dataset are setup in order to accurately create scatterplots once the program is run.
 
 
 1. [Downloadable CSV file of Fisher's Dataset from GitHub User Content](https://raw.githubusercontent.com/uiuc-cse/data-fa14/gh-pages/data/iris.csv)
