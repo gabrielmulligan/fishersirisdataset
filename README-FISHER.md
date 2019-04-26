@@ -71,11 +71,12 @@ These tables detail the mean (average), standard deviation and min/max (incl. 25
 These are the scatterplot diagrams showing the distribution of a) Sepal Length and Width and b) Petal Length and Width across the three species of Iris.
 
 ![Figure 1: Scatterplot Diagrams of Fisher's Iris Dataset](https://github.com/gabrielmulligan/fishersirisdataset/blob/master/Fisher_Scatterplots.png)
+#### Figure 1: Scatterplot Diagrams of Fisher's Iris Dataset
 
 and a summary of the main statistics of the dataset, per species:-
 
 ![Figure 2: Tabular Summary of the Primary Statistics of each Iris species](https://github.com/gabrielmulligan/fishersirisdataset/blob/master/Fisher_Summary.png)
-
+#### Figure 2: Tabular Summary of the Primary Statistics of each Iris species
 
 # Findings
 
