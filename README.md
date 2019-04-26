@@ -10,7 +10,7 @@ This repository consists of my analysis of the Fisher's Iris Dataset as specifie
 
 ## Introduction
 Fisher's Iris data set is a multivariate data set introduced by Ronald Fisher in 1936, as an example of *linear discriminant analysis* i.e. a method used in statistics to find a linear combination of features that characterizes or separates two or more classes of objects or events. 
-In this case, Fisher wished to investigate if the species of an Iris flower could be identified by examining its petal and sepal length and width.
+In this study, Fisher wished to investigate if the species of an Iris flower could be identified by examining its petal and sepal length and width.
 
 ## The Data
 The data was collected by Fisher’s colleague, Edgar Anderson, in order to quantify the scientific variation of Iris flowers of three related species. Two of the three species (setosa and versicolor) were collected in the Gaspé Peninsula in Quebec, Canada - with a high level of consistency in the collection process:-  
