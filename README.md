@@ -13,7 +13,7 @@ Fisher's Iris data set is a multivariate data set introduced by Ronald Fisher in
 In this case, Fisher wished to investigate if the species of an Iris flower could be identified by examining its petal and sepal length and width.
 
 ## The Data
-The data was collected by Fisher’s colleague, Edgar Anderson, in order to quantify the scientific variation of Iris flowers of three related species. Two of the three species (setosa and versicolor) were collected in the Gaspé Peninsula in Quebec, Canada:-  
+The data was collected by Fisher’s colleague, Edgar Anderson, in order to quantify the scientific variation of Iris flowers of three related species. Two of the three species (setosa and versicolor) were collected in the Gaspé Peninsula in Quebec, Canada with a high level of consistency in the collection process:-  
 >all from the same pasture, and picked on the same day and measured at the same time by the same person with the same apparatus <sup>[Reference 2](https://link.springer.com/chapter/10.1007/978-1-4612-5098-2_2)</sup>.
 
 The third species (virginica) was collected from a different colony.
