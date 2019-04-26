@@ -38,40 +38,40 @@ These tables detail the mean (average), standard deviation and min/max (incl. 25
 
 | IRIS SETOSA |Sepal Length|Sepal Width|Petal Length|Petal Width|
 | --- | --- | --- |--- | --- |
-| Count | 50 | 50 | 50 | 50 |
-| Mean | 5.006 | 3.418 | 1.464 | 0.244 |
-| Std Deviation | 0.35249 | 0.381024 |0.173511 | 0.10721 |
-| Min | 4.3 | 2.3 |1.0 | 0.1 |
+| Count of sample data| 50 | 50 | 50 | 50 |
+| Mean (Average)| 5.006 | 3.418 | 1.464 | 0.244 |
+| Standard Deviation | 0.35249 | 0.381024 |0.173511 | 0.10721 |
+| Minimum Value | 4.3 | 2.3 |1.0 | 0.1 |
 | 25th percentile | 4.8 | 3.125 |1.4 | 0.2 |
 | 50th percentile | 5.0 | 3.4 |1.5 | 0.2 |
 | 75th percentile | 5.2 | 3.675 |1.575 | 0.3 |
-| Max | 5.8 | 4.4 |1.9 | 0.6 |
+| Maximum Value | 5.8 | 4.4 |1.9 | 0.6 |
 
 ### Versicolor
 
 | IRIS VERSICOLOR |Sepal Length|Sepal Width|Petal Length|Petal Width|
 | --- | --- | --- |--- | --- |
-| Count | 50 | 50 | 50 | 50 |
-| Mean | 5.936 | 2.77 | 4.26 | 1.326 |
-| Std Deviation | 0.516171 | 0.313798 |0.469911 | 0.197753 |
-| Min | 4.9 | 2.0 |3.0 | 1.0 |
+| Count of sample data | 50 | 50 | 50 | 50 |
+| Mean (Average)| 5.936 | 2.77 | 4.26 | 1.326 |
+| Standard Deviation | 0.516171 | 0.313798 |0.469911 | 0.197753 |
+| Minimum Value | 4.9 | 2.0 |3.0 | 1.0 |
 | 25th percentile | 5.6 | 2.525 |4.0 | 1.2 |
 | 50th percentile | 5.9 | 2.8 |4.35 | 1.3 |
 | 75th percentile | 6.3 | 3.0 |4.6 | 1.5 |
-| Max | 7.0 | 3.4 |5.1 | 1.8 |
+| Maximum Value | 7.0 | 3.4 |5.1 | 1.8 |
 
 ### Virginica
 
 | IRIS VIRGINICA |Sepal Length|Sepal Width|Petal Length|Petal Width|
 | --- | --- | --- |--- | --- |
-| Count | 50 | 50 | 50 | 50 |
-| Mean | 6.588 | 2.974 | 5.552 | 2.026 |
-| Std Deviation | 0.63588 | 0.322497 |0.551895 | 0.27465 |
-| Min | 4.9 | 2.2 |4.5 | 1.4 |
+| Count of sample data| 50 | 50 | 50 | 50 |
+| Mean (Average)| 6.588 | 2.974 | 5.552 | 2.026 |
+| Standard Deviation | 0.63588 | 0.322497 |0.551895 | 0.27465 |
+| Minimum Value | 4.9 | 2.2 |4.5 | 1.4 |
 | 25th percentile | 6.225 | 2.8 |5.1 | 1.8 |
 | 50th percentile | 6.5 | 3.0 |5.55 | 2.0 |
 | 75th percentile | 6.9 | 3.175 |5.875 | 2.3 |
-| Max | 7.9 | 3.8 |6.9 | 2.5 |
+| Maximum Value | 7.9 | 3.8 |6.9 | 2.5 |
 
 ## Scatterplot Diagrams
 
