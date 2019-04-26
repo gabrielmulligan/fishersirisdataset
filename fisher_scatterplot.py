@@ -4,14 +4,14 @@
 # a) output a statistical summary (mean,min,max,standard deviation) of the Iris Dataset and
 # b) plot this data in a Scatterplot diagram.
  
-# Firstly, import the Python libraries required to analyze the data
+# Firstly, import the Python libraries required to analyze the data fully
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 from pandas.tools.plotting import scatter_matrix
 
 # read in the actual Iris dataset data, as gathered by Edgar Anderson/Ronald Fisher (1936). 
-# This is stored as fishers_iris_dataset.csv in this working directory.
+# This is stored as filename fishers_iris_dataset.csv in this working directory.
 iris = pd.read_csv("fishers_iris_dataset.csv",delimiter = ',') 
 
 # print a statistical summary by Species
