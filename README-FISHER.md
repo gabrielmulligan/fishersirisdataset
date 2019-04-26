@@ -44,7 +44,7 @@ This details the mean (average), standard deviation and min/max (incl. 25%/50%/7
 
 These are the scatterplot diagrams
 
-![Scatterplot Diagrams of Fisher's Iris Dataset]()
+![Scatterplot Diagrams of Fisher's Iris Dataset](https://github.com/gabrielmulligan/fishersirisdataset/Fisher_Scatterplots.png)
 
 ## Findings
 
