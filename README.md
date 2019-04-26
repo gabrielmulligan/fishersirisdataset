@@ -102,8 +102,9 @@ Iris Setosa is seperable by the fact that its *Petal Length and Width* are signi
 
 # Legacy
 
-This dataset has become a test case for many statistical and machine learning projects, given Fisher's *linear discriminant model* and how the data collected by Anderson could be used to find a linear combination of features that characterize or separate two or more classes of objects/events.
-The fact that this dataset is available (and analyzed in many tutorials) as part of the Scikit machine-learning library in Python means that more and more students (IT, Maths, Biology) access and analyze this dataset each year.
+This dataset has become a test case for many statistical and machine learning projects, given Fisher's *linear discriminant model* and how the data collected by Anderson could be used to find a linear combination of features that characterize or separate two or more classes of objects/events i.e. could the length and width of the sepals and petals of these three Iris species be used to infer which species that data sample belongs to.
+
+The fact that this dataset is available as part of the Scikit machine-learning library in Python - and therefore analyzed as part of many third-level courses - means that more and more students over a range of disciplines (e.g. IT, Maths, Biology) access and analyze this dataset each year to understand the groundbreaking work undertaken by Fisher and Anderson.
 
 # Python Program 
 ## fisher_scatterplot.py
